@@ -1,0 +1,5 @@
+
+[logbegone]
+	regex = ["Disconnecting VANILLA connection attempt", "Channels ", ".*intensehorror:.*"]
+	phrases = ["Disconnecting VANILLA connection attempt", "Channels "]
+
