@@ -1,0 +1,253 @@
+[16:34:23] [modloading-worker-0/INFO] ========================================
+[16:34:23] [modloading-worker-0/INFO] Minecraft: 1.20.1
+[16:34:23] [modloading-worker-0/INFO] Side: client
+[16:34:23] [modloading-worker-0/INFO] Development: false
+[16:34:23] [modloading-worker-0/INFO] Version: 12.1.785
+[16:34:23] [modloading-worker-0/INFO] Loader:
+[16:34:23] [modloading-worker-0/INFO] - Forge: 47.4.0
+[16:34:23] [modloading-worker-0/INFO] Dependencies:
+[16:34:23] [modloading-worker-0/INFO] - Cloth Config: 11.1.136
+[16:34:23] [modloading-worker-0/INFO] - Architectury: 9.2.14
+[16:34:23] [modloading-worker-0/INFO] Mixin: 0.8.5
+[16:34:23] [modloading-worker-0/INFO] OS: Windows 11 10.0 (amd64)
+[16:34:23] [modloading-worker-0/INFO] Java: 17.0.8 (Microsoft)
+[16:34:23] [modloading-worker-0/INFO] ========================================
+[16:34:23] [modloading-worker-0/INFO] Mods:
+[16:34:23] [modloading-worker-0/INFO] - additionalstructures: 4.2.2
+[16:34:23] [modloading-worker-0/INFO] - aether: 1.20.1-1.5.2-neoforge
+[16:34:23] [modloading-worker-0/INFO] - aiimprovements: 0.5.2
+[16:34:23] [modloading-worker-0/INFO] - alexsdelight: 1.5
+[16:34:23] [modloading-worker-0/INFO] - alexsmobs: 1.22.9
+[16:34:23] [modloading-worker-0/INFO] - animation_overhaul: 1.3.1
+[16:34:23] [modloading-worker-0/INFO] - aquaculture: 2.5.5
+[16:34:23] [modloading-worker-0/INFO] - aquaculturedelight: 1.1.1
+[16:34:23] [modloading-worker-0/INFO] - architectury: 9.2.14
+[16:34:23] [modloading-worker-0/INFO] - arphex: 4.4.9
+[16:34:23] [modloading-worker-0/INFO] - ash_api: 3.0.2+1.20.1
+[16:34:23] [modloading-worker-0/INFO] - attributefix: 21.0.4
+[16:34:23] [modloading-worker-0/INFO] - balm: 7.3.27
+[16:34:23] [modloading-worker-0/INFO] - betteranimationscollection: 8.0.0
+[16:34:23] [modloading-worker-0/INFO] - betterchunkloading: 1.20.1-5.4
+[16:34:23] [modloading-worker-0/INFO] - betterdeserttemples: 1.20-Forge-3.0.3
+[16:34:23] [modloading-worker-0/INFO] - betterdungeons: 1.20-Forge-4.0.4
+[16:34:23] [modloading-worker-0/INFO] - betterendisland: 1.20-Forge-2.0.6
+[16:34:23] [modloading-worker-0/INFO] - betterfortresses: 1.20-Forge-2.0.6
+[16:34:23] [modloading-worker-0/INFO] - betterjungletemples: 1.20-Forge-2.0.5
+[16:34:23] [modloading-worker-0/INFO] - bettermineshafts: 1.20-Forge-4.0.4
+[16:34:23] [modloading-worker-0/INFO] - betteroceanmonuments: 1.20-Forge-3.0.4
+[16:34:23] [modloading-worker-0/INFO] - betterstrongholds: 1.20-Forge-4.0.3
+[16:34:23] [modloading-worker-0/INFO] - betterthirdperson: 1.9.0
+[16:34:23] [modloading-worker-0/INFO] - betterwitchhuts: 1.20-Forge-3.0.3
+[16:34:23] [modloading-worker-0/INFO] - biomesoplenty: 18.0.0.592
+[16:34:23] [modloading-worker-0/INFO] - biomeswevegone: 1.5.11
+[16:34:23] [modloading-worker-0/INFO] - blanketghost: 1.0.0
+[16:34:23] [modloading-worker-0/INFO] - blockui: 1.20.1-1.0.190-snapshot
+[16:34:23] [modloading-worker-0/INFO] - blueprint: 7.1.3
+[16:34:23] [modloading-worker-0/INFO] - botania: 1.20.1-448-FORGE
+[16:34:23] [modloading-worker-0/INFO] - botarium: 2.3.4
+[16:34:23] [modloading-worker-0/INFO] - brewinandchewin: 1.20.1-3.2.1
+[16:34:23] [modloading-worker-0/INFO] - carryon: 2.1.2.7
+[16:34:23] [modloading-worker-0/INFO] - chefsdelight: 1.0.3-forge-1.20.1
+[16:34:23] [modloading-worker-0/INFO] - chunksending: 1.20.1-2.8
+[16:34:23] [modloading-worker-0/INFO] - citadel: 2.6.1
+[16:34:23] [modloading-worker-0/INFO] - cloth_config: 11.1.136
+[16:34:23] [modloading-worker-0/INFO] - cold_sweat: 2.4-b02d
+[16:34:23] [modloading-worker-0/INFO] - colony4cc: 2.6.5
+[16:34:23] [modloading-worker-0/INFO] - comforts: 6.4.0+1.20.1
+[16:34:23] [modloading-worker-0/INFO] - commongroovylibrary: 0.3.3
+[16:34:23] [modloading-worker-0/INFO] - computercraft: 1.113.1
+[16:34:23] [modloading-worker-0/INFO] - connectivity: 1.20.1-7.1
+[16:34:23] [modloading-worker-0/INFO] - corgilib: 4.0.3.3
+[16:34:23] [modloading-worker-0/INFO] - cosycritters: 0.0.6
+[16:34:23] [modloading-worker-0/INFO] - create: 6.0.1
+[16:34:23] [modloading-worker-0/INFO] - croptopia: 3.0.4
+[16:34:23] [modloading-worker-0/INFO] - culturaldelights: 0.16.4
+[16:34:23] [modloading-worker-0/INFO] - cumulus_menus: 1.20.1-1.0.1-neoforge
+[16:34:23] [modloading-worker-0/INFO] - cupboard: 1.20.1-2.7
+[16:34:23] [modloading-worker-0/INFO] - curios: 5.14.1+1.20.1
+[16:34:23] [modloading-worker-0/INFO] - darkmodeeverywhere: 1.20.1-1.2.4
+[16:34:23] [modloading-worker-0/INFO] - death_angels: 1.2.9
+[16:34:23] [modloading-worker-0/INFO] - distanthorizons: 2.3.2-b
+[16:34:23] [modloading-worker-0/INFO] - doapi: 1.2.15
+[16:34:23] [modloading-worker-0/INFO] - domum_ornamentum: 1.20.1-1.0.186-RELEASE
+[16:34:23] [modloading-worker-0/INFO] - dynamic_fps: 3.9.3
+[16:34:23] [modloading-worker-0/INFO] - eatinganimation: 5.1.0
+[16:34:23] [modloading-worker-0/INFO] - embeddium: 0.3.31+mc1.20.1
+[16:34:23] [modloading-worker-0/INFO] - endofherobrine: 1.20.1-1.0.8.2
+[16:34:23] [modloading-worker-0/INFO] - entity_303: 1.0.0
+[16:34:23] [modloading-worker-0/INFO] - epherolib: 0.1.2
+[16:34:23] [modloading-worker-0/INFO] - explorify: 1.6.2
+[16:34:23] [modloading-worker-0/INFO] - eyesinthedarkness: 1.3.10
+[16:34:23] [modloading-worker-0/INFO] - fabric_api: 0.92.2+1.11.12+1.20.1
+[16:34:23] [modloading-worker-0/INFO] - fabric_api_base: 0.4.31+ef105b4977
+[16:34:23] [modloading-worker-0/INFO] - fabric_api_lookup_api_v1: 1.6.36+67f9824077
+[16:34:23] [modloading-worker-0/INFO] - fabric_biome_api_v1: 13.0.13+dc36698e77
+[16:34:23] [modloading-worker-0/INFO] - fabric_block_api_v1: 1.0.11+0e6cb7f777
+[16:34:23] [modloading-worker-0/INFO] - fabric_block_view_api_v2: 1.0.1+0767707077
+[16:34:23] [modloading-worker-0/INFO] - fabric_blockrenderlayer_v1: 1.1.41+1d0da21e77
+[16:34:23] [modloading-worker-0/INFO] - fabric_client_tags_api_v1: 1.1.2+5d6761b877
+[16:34:23] [modloading-worker-0/INFO] - fabric_command_api_v1: 1.2.34+f71b366f77
+[16:34:23] [modloading-worker-0/INFO] - fabric_command_api_v2: 2.2.13+561530ec77
+[16:34:23] [modloading-worker-0/INFO] - fabric_content_registries_v0: 4.0.11+a670df1e77
+[16:34:23] [modloading-worker-0/INFO] - fabric_convention_tags_v1: 1.5.5+fa3d1c0177
+[16:34:23] [modloading-worker-0/INFO] - fabric_data_attachment_api_v1: 1.0.0+30ef839e77
+[16:34:23] [modloading-worker-0/INFO] - fabric_data_generation_api_v1: 12.3.4+369cb3a477
+[16:34:23] [modloading-worker-0/INFO] - fabric_dimensions_v1: 2.1.54+8005d10d77
+[16:34:23] [modloading-worker-0/INFO] - fabric_entity_events_v1: 1.6.0+4ca7515277
+[16:34:23] [modloading-worker-0/INFO] - fabric_events_interaction_v0: 0.6.2+0d0bd5a777
+[16:34:23] [modloading-worker-0/INFO] - fabric_game_rule_api_v1: 1.0.40+683d4da877
+[16:34:23] [modloading-worker-0/INFO] - fabric_item_api_v1: 2.1.28+4d0bbcfa77
+[16:34:23] [modloading-worker-0/INFO] - fabric_item_group_api_v1: 4.0.12+c9161c2d77
+[16:34:23] [modloading-worker-0/INFO] - fabric_key_binding_api_v1: 1.0.37+561530ec77
+[16:34:23] [modloading-worker-0/INFO] - fabric_lifecycle_events_v1: 2.2.22+afab492177
+[16:34:23] [modloading-worker-0/INFO] - fabric_loot_api_v2: 1.2.1+eb28f93e77
+[16:34:23] [modloading-worker-0/INFO] - fabric_message_api_v1: 5.1.9+52cc178c77
+[16:34:23] [modloading-worker-0/INFO] - fabric_mining_level_api_v1: 2.1.50+561530ec77
+[16:34:23] [modloading-worker-0/INFO] - fabric_model_loading_api_v1: 1.0.3+6274ab9d77
+[16:34:23] [modloading-worker-0/INFO] - fabric_models_v0: 0.4.2+7c3892a477
+[16:34:23] [modloading-worker-0/INFO] - fabric_networking_api_v1: 1.3.11+503a202477
+[16:34:23] [modloading-worker-0/INFO] - fabric_object_builder_api_v1: 11.1.3+4bd998fa77
+[16:34:23] [modloading-worker-0/INFO] - fabric_particles_v1: 1.1.2+78e1ecb877
+[16:34:23] [modloading-worker-0/INFO] - fabric_recipe_api_v1: 1.0.21+514a076577
+[16:34:23] [modloading-worker-0/INFO] - fabric_registry_sync_v0: 2.3.3+1c0ea72177
+[16:34:23] [modloading-worker-0/INFO] - fabric_renderer_api_v1: 3.2.1+cf68abbe77
+[16:34:23] [modloading-worker-0/INFO] - fabric_renderer_indigo: 1.5.2+b5b2da4177
+[16:34:23] [modloading-worker-0/INFO] - fabric_rendering_data_attachment_v1: 0.3.37+a6081afc77
+[16:34:23] [modloading-worker-0/INFO] - fabric_rendering_fluids_v1: 3.0.28+4ac5e37a77
+[16:34:23] [modloading-worker-0/INFO] - fabric_rendering_v1: 3.0.8+66e9a48f77
+[16:34:23] [modloading-worker-0/INFO] - fabric_resource_conditions_api_v1: 2.3.8+9e342fc177
+[16:34:23] [modloading-worker-0/INFO] - fabric_resource_loader_v0: 0.11.10+bcd08ed377
+[16:34:23] [modloading-worker-0/INFO] - fabric_screen_api_v1: 2.0.8+45a670a577
+[16:34:23] [modloading-worker-0/INFO] - fabric_screen_handler_api_v1: 1.3.30+561530ec77
+[16:34:23] [modloading-worker-0/INFO] - fabric_sound_api_v1: 1.0.13+4f23bd8477
+[16:34:23] [modloading-worker-0/INFO] - fabric_transfer_api_v1: 3.3.5+631c9cd677
+[16:34:23] [modloading-worker-0/INFO] - fabric_transitive_access_wideners_v1: 4.3.1+1880499877
+[16:34:23] [modloading-worker-0/INFO] - farmers_croptopia: 2.0.0
+[16:34:23] [modloading-worker-0/INFO] - farmers_delight_christmas_editon: 1.0.0
+[16:34:23] [modloading-worker-0/INFO] - farmers_structures: 1.0.0
+[16:34:23] [modloading-worker-0/INFO] - farmersdelight: 1.20.1-1.2.7
+[16:34:23] [modloading-worker-0/INFO] - farmersdelightcompat: 1.1.0
+[16:34:23] [modloading-worker-0/INFO] - farmersrespite: 1.20.1-2.1
+[16:34:23] [modloading-worker-0/INFO] - fastload: 3.4.0
+[16:34:23] [modloading-worker-0/INFO] - ferritecore: 6.0.1
+[16:34:23] [modloading-worker-0/INFO] - firstperson: 2.4.9
+[16:34:23] [modloading-worker-0/INFO] - flywheel: 1.0.1-beta
+[16:34:23] [modloading-worker-0/INFO] - forge: 47.4.0
+[16:34:23] [modloading-worker-0/INFO] - geckolib: 4.7.1.2
+[16:34:23] [modloading-worker-0/INFO] - geophilic: 3.4.1
+[16:34:23] [modloading-worker-0/INFO] - glitchcore: 0.0.1.1
+[16:34:23] [modloading-worker-0/INFO] - glitchmanv: 1.0.0
+[16:34:23] [modloading-worker-0/INFO] - gml: 4.0.11
+[16:34:23] [modloading-worker-0/INFO] - hardcorequesting: 1.20.1-5.16.0
+[16:34:23] [modloading-worker-0/INFO] - harderbranchmining: 46.0.14
+[16:34:23] [modloading-worker-0/INFO] - hardernaturalhealing: 46.1.14
+[16:34:23] [modloading-worker-0/INFO] - hauntedharvest: 1.20-3.2.0
+[16:34:23] [modloading-worker-0/INFO] - horror_element_mod: 1.6.1
+[16:34:23] [modloading-worker-0/INFO] - intensehorror: 1.0
+[16:34:23] [modloading-worker-0/INFO] - jade: 11.13.1+forge
+[16:34:23] [modloading-worker-0/INFO] - jei: 15.9999
+[16:34:23] [modloading-worker-0/INFO] - journeymap: 5.10.3
+[16:34:23] [modloading-worker-0/INFO] - kotlinforforge: 4.11.0
+[16:34:23] [modloading-worker-0/INFO] - kubejs: 2001.6.5-build.16
+[16:34:23] [modloading-worker-0/INFO] - kuma_api: 20.1.10
+[16:34:23] [modloading-worker-0/INFO] - largemeals: 1.20.1-1.3.0
+[16:34:23] [modloading-worker-0/INFO] - lemoned: 1.0.1-1.20
+[16:34:23] [modloading-worker-0/INFO] - limitedchunks: 1.8
+[16:34:23] [modloading-worker-0/INFO] - lmft: 1.0.4+1.20.1
+[16:34:23] [modloading-worker-0/INFO] - lootintegrations: 1.20.1-4.3
+[16:34:23] [modloading-worker-0/INFO] - lootintegrations_yungs: 1
+[16:34:23] [modloading-worker-0/INFO] - ls_spooky_paintings: 2.1.1
+[16:34:23] [modloading-worker-0/INFO] - magistuarmory: 9.23
+[16:34:23] [modloading-worker-0/INFO] - minecolonies: 1.20.1-1.1.873-alpha
+[16:34:23] [modloading-worker-0/INFO] - minecraft: 1.20.1
+[16:34:23] [modloading-worker-0/INFO] - miners_delight: 1.20.1-1.2.3
+[16:34:23] [modloading-worker-0/INFO] - minervillager: 5.5
+[16:34:23] [modloading-worker-0/INFO] - mixinextras: 0.4.1
+[16:34:23] [modloading-worker-0/INFO] - mns: 1.0.3-1.20-forge
+[16:34:23] [modloading-worker-0/INFO] - modnametooltip: 1.20.0
+[16:34:23] [modloading-worker-0/INFO] - moonlight: 1.20-2.13.83
+[16:34:23] [modloading-worker-0/INFO] - multipiston: 1.20-1.2.43-RELEASE
+[16:34:23] [modloading-worker-0/INFO] - mvs: 4.1.4-1.20-forge
+[16:34:23] [modloading-worker-0/INFO] - neapolitan: 5.1.0
+[16:34:23] [modloading-worker-0/INFO] - necronomicon: 1.6.0
+[16:34:23] [modloading-worker-0/INFO] - nitrogen_internals: 1.20.1-1.0.12-neoforge
+[16:34:23] [modloading-worker-0/INFO] - notenoughanimations: 1.9.3
+[16:34:23] [modloading-worker-0/INFO] - obscure_api: 15
+[16:34:23] [modloading-worker-0/INFO] - ohthetreesyoullgrow: 1.3.9
+[16:34:23] [modloading-worker-0/INFO] - overweight_farming: 1.20.1-2.1.0-forge
+[16:34:23] [modloading-worker-0/INFO] - patchouli: 1.20.1-84.1-FORGE
+[16:34:23] [modloading-worker-0/INFO] - playeranimator: 1.0.2-rc1+1.20
+[16:34:23] [modloading-worker-0/INFO] - ponder: 1.0.38
+[16:34:23] [modloading-worker-0/INFO] - puzzlesaccessapi: 20.1.1
+[16:34:23] [modloading-worker-0/INFO] - puzzleslib: 8.1.32
+[16:34:23] [modloading-worker-0/INFO] - rei_plugin_compatibilities: 12.0.93
+[16:34:23] [modloading-worker-0/INFO] - repurposed_structures: 7.1.15+1.20.1-forge
+[16:34:23] [modloading-worker-0/INFO] - rhino: 2001.2.3-build.10
+[16:34:23] [modloading-worker-0/INFO] - roughlyenoughitems: 12.1.785
+[16:34:23] [modloading-worker-0/INFO] - rubidium: 0.7.1
+[16:34:23] [modloading-worker-0/INFO] - sereneseasons: 9.1.0.2
+[16:34:23] [modloading-worker-0/INFO] - siren_head: 1.1.4
+[16:34:23] [modloading-worker-0/INFO] - smarterfarmers: 1.20-2.1.2
+[16:34:23] [modloading-worker-0/INFO] - smoothchunk: 1.20.1-4.1
+[16:34:23] [modloading-worker-0/INFO] - sophisticatedbackpacks: 3.23.14.1233
+[16:34:23] [modloading-worker-0/INFO] - sophisticatedcore: 1.2.51.966
+[16:34:23] [modloading-worker-0/INFO] - sparsestructuresreforged: 1.20.1-0.0.1
+[16:34:23] [modloading-worker-0/INFO] - spectrelib: 0.13.15+1.20.1
+[16:34:23] [modloading-worker-0/INFO] - spoiled: 2.1.3
+[16:34:23] [modloading-worker-0/INFO] - spookydoors: 20.1.5
+[16:34:23] [modloading-worker-0/INFO] - spookystructures: 1.0.0
+[16:34:23] [modloading-worker-0/INFO] - structure_gel: 2.16.2
+[16:34:23] [modloading-worker-0/INFO] - structurize: 1.20.1-1.0.770-snapshot
+[16:34:23] [modloading-worker-0/INFO] - terrablender: 3.0.1.10
+[16:34:23] [modloading-worker-0/INFO] - terraform: 7.0.1
+[16:34:23] [modloading-worker-0/INFO] - the_knocker: 1.4.0
+[16:34:23] [modloading-worker-0/INFO] - thepossessivemask: 1.0.0
+[16:34:23] [modloading-worker-0/INFO] - thirst: 1.20.1-1.3.16
+[16:34:23] [modloading-worker-0/INFO] - toughasnails: 9.2.0.171
+[16:34:23] [modloading-worker-0/INFO] - towntalk: 1.1.0
+[16:34:23] [modloading-worker-0/INFO] - undergardendelight: 1.1.2
+[16:34:23] [modloading-worker-0/INFO] - unknown: 1.0.2
+[16:34:23] [modloading-worker-0/INFO] - vintagedelight: 0.1.6
+[16:34:23] [modloading-worker-0/INFO] - vminus: 3.2.7
+[16:34:23] [modloading-worker-0/INFO] - watching: 1.9.2
+[16:34:23] [modloading-worker-0/INFO] - weeping_angels: 1
+[16:34:23] [modloading-worker-0/INFO] - wits: 1.1.0+1.20.1-forge
+[16:34:23] [modloading-worker-0/INFO] - xaerominimap: 25.2.0
+[16:34:23] [modloading-worker-0/INFO] - xaeroworldmap: 1.39.4
+[16:34:23] [modloading-worker-0/INFO] - yungsapi: 1.20-Forge-4.0.6
+[16:34:23] [modloading-worker-0/INFO] - yungsbridges: 1.20-Forge-4.0.3
+[16:34:23] [modloading-worker-0/INFO] - yungscavebiomes: 1.20.1-Forge-2.0.4
+[16:34:23] [modloading-worker-0/INFO] - yungsextras: 1.20-Forge-4.0.3
+[16:34:23] [modloading-worker-0/INFO] - yungsmenutweaks: 1.20.1-Forge-1.0.2
+[16:34:23] [modloading-worker-0/INFO] ========================================
+[16:34:23] [modloading-worker-0/DEBUG] [REI] Added filtering rule [roughlyenoughitems:search]: INSTANCE
+[16:34:23] [modloading-worker-0/DEBUG] [REI] Added filtering rule [roughlyenoughitems:manual]: INSTANCE
+[16:34:23] [modloading-worker-0/DEBUG] [REI] Added filtering rule [roughlyenoughitems:basic]: INSTANCE
+[16:34:23] [modloading-worker-0/INFO] [REI] Config loaded
+[16:34:23] [modloading-worker-0/DEBUG] [REI] Config saved
+[16:34:23] [modloading-worker-0/DEBUG] [REI] Config saved
+[16:34:23] [modloading-worker-0/DEBUG] [REI] Config saved
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider AetherREIServerPlugin [aether] for REIPlugin
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider AetherREIClientPlugin [aether] for REIPlugin
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider REI Plugin Compatibilities Client Handler [rei_plugin_compatibilities, jei] for REIPlugin
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider REICompat [hauntedharvest] for REIPlugin
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider REIForgePluginStub [kubejs] for REIPlugin
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider REI Plugin Compatibilities Adapter [rei_plugin_compatibilities, jei] for REIPlugin
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIServerPlugin
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultPluginImpl [roughlyenoughitems] for REIPlugin
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIServerPlugin
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REIPlugin
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider AetherREIServerPlugin [aether] for REIServerPlugin
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider REI Plugin Compatibilities Adapter [rei_plugin_compatibilities, jei] for REIServerPlugin
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultClientPluginImpl [roughlyenoughitems] for REIClientPlugin
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultClientPluginImpl [roughlyenoughitems] for REIPlugin
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIClientPlugin
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider DefaultClientRuntimePlugin [roughlyenoughitems] for REIPlugin
+[16:34:24] [modloading-worker-0/DEBUG] [REI] Added filtering rule [roughlyenoughitems:hidden_from_recipe_viewers]: INSTANCE
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIClientPlugin
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider HideIngredientsFromTagsPlugin [roughlyenoughitems] for REIPlugin
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider AetherREIClientPlugin [aether] for REIClientPlugin
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider REI Plugin Compatibilities Client Handler [rei_plugin_compatibilities, jei] for REIClientPlugin
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider REICompat [hauntedharvest] for REIClientPlugin
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider REIForgePluginStub [kubejs] for REIClientPlugin
+[16:34:24] [modloading-worker-0/INFO] [REI] Registered plugin provider REI Plugin Compatibilities Adapter [rei_plugin_compatibilities, jei] for REIClientPlugin
